@@ -1,0 +1,21 @@
+{
+  "name": "odin_basic_information_site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raj-0512/odin_basic_information_site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Raj-0512/odin_basic_information_site/issues"
+  },
+  "homepage": "https://github.com/Raj-0512/odin_basic_information_site#readme"
+}
